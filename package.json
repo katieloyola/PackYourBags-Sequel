@@ -1,0 +1,27 @@
+{
+  "name": "backpack",
+  "version": "1.0.0",
+  "description": "homework14",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katieloyola/burger.git"
+  },
+  "author": "Katie Loyola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katieloyola/burger/issues"
+  },
+  "homepage": "https://github.com/katieloyola/burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "method-override": "^3.0.0",
+    "mysql2": "^1.6.5",
+    "sequelize": "^4.43.0"
+  }
+}

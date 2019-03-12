@@ -1,0 +1,18 @@
+#jumbo-bg {
+    background: lightblue;
+    border: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px
+}
+
+#jumbo-bg * {
+    color: green;
+}
+
+#tent-wrapper {
+    text-align: center;
+}
+
+#camping {
+    font-weight: 500;
+}
